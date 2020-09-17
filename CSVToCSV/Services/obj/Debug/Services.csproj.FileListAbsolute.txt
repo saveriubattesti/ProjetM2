@@ -1,0 +1,6 @@
+C:\Users\Saveriu\source\repos\CSVToCSV\Services\bin\Debug\Services.dll
+C:\Users\Saveriu\source\repos\CSVToCSV\Services\bin\Debug\Services.pdb
+C:\Users\Saveriu\source\repos\CSVToCSV\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Saveriu\source\repos\CSVToCSV\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Saveriu\source\repos\CSVToCSV\Services\obj\Debug\Services.dll
+C:\Users\Saveriu\source\repos\CSVToCSV\Services\obj\Debug\Services.pdb

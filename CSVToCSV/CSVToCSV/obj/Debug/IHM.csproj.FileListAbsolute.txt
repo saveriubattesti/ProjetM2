@@ -1,0 +1,9 @@
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\bin\Debug\CSVToCSV.exe.config
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\bin\Debug\CSVToCSV.exe
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\bin\Debug\CSVToCSV.pdb
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\obj\Debug\IHM.csprojAssemblyReference.cache
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\obj\Debug\CSVToCSV.Properties.Resources.resources
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\obj\Debug\IHM.csproj.GenerateResource.cache
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\obj\Debug\IHM.csproj.CoreCompileInputs.cache
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\obj\Debug\CSVToCSV.exe
+C:\Users\Saveriu\source\repos\CSVToCSV\CSVToCSV\obj\Debug\CSVToCSV.pdb
